@@ -41,11 +41,11 @@ st.write(
 # Available trained models
 # ---------------------------------------------------------
 model_files = {
-    "Logistic Regression": "model/logistic_regression.joblib",
-    "Decision Tree": "model/decision_tree.joblib",
-    "K-Nearest Neighbors": "model/knn.joblib",
-    "Gaussian Naive Bayes": "model/naive_bayes.joblib",
-    "Support Vector Machine": "model/svm.joblib"
+    "Logistic Regression": "logistic_regression.joblib",
+    "Decision Tree": "decision_tree.joblib",
+    "K-Nearest Neighbors": "knn.joblib",
+    "Gaussian Naive Bayes": "naive_bayes.joblib",
+    "Support Vector Machine": "svm.joblib"
 }
 
 # ---------------------------------------------------------
