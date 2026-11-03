@@ -43,7 +43,7 @@ The models were evaluated using:
 - Recall
 - F1 Score
 - Matthews Correlation Coefficient (MCC)
-- 
+  
 Weighted averaging was used for Precision, Recall, and F1 Score. Multiclass One-vs-Rest (OvR) weighted AUC was used for AUC evaluation.
 
 **Model Performance Comparison**
@@ -102,4 +102,4 @@ https://sravankumar07235-aiml-dry-bean-model-comparison-app-guokpe.streamlit.app
 **GitHub Repository link**
 https://github.com/sravankumar07235/aiml-dry-bean-model-comparison
 
-Data set Source: UCI Machine Learning Repository - Dry Bean Dataset
+**Data set Source:** UCI Machine Learning Repository - Dry Bean Dataset
